@@ -1,0 +1,22 @@
+/* Maintenance mode styling */
+.maintenance-container {
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #333;
+}
+
+p {
+    font-size: 1.5rem;
+    margin-top: 20px;
+}
+
+#countdown {
+    font-size: 40px;
+    margin-top: 20px;
+    color: #ff0000;
+}
